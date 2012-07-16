@@ -1,4 +1,4 @@
 Rscript
 =======
 
-Fedsora and Hadoop R Scripts
+Fedora and Hadoop R Scripts
